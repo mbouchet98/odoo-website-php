@@ -1,0 +1,33 @@
+body {
+	margin: 0;
+
+}
+#map {
+	width: 500px;
+	height: 500px;
+}
+#search {
+	background-color: black;
+	position: absolute;
+	bottom: 40px;
+	left: 40px; 
+	width: 250px;
+	height: auto;
+	padding: 10px;
+	color: white;
+}
+#search input {
+	width: 150px;
+	
+}
+#results {
+	font-style: sans-serif;
+	color: black;
+	font-size: 75%;
+	color: white;
+}
+
+button{
+
+	background-color: red
+}
