@@ -52,8 +52,8 @@
 	require_once('ripcord-master/ripcord.php');
 	$url = 'http://10.0.1.59:8069';
 	$db = 'odoo';
-	$username = 'admin';
-	$password = 'NTICNTIC$79';
+	$username = 'user';
+	$password = 'mdp';
 
 	$common = ripcord::client("$url/xmlrpc/2/common");
 	$common->version();
